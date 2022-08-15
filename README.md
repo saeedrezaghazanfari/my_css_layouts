@@ -1,29 +1,29 @@
 # My Css Layouts
-This Repository is for my Templates. These Templates are my Daily practices!
+This Repository is for my Templates. These Templates are my Daily Practices!
 
 <br>
 
 ## 3dFlippingCard
-<img src="_layouts_view/3dflippingcard.gif" width="100%">
+<a src="" target="_blank"></a>
 
 <br>
 
 ## BlurEveryThings
-<img src="_layouts_view/bg.jpg" width="100%">
+<a src="" target="_blank"></a>
 
 <br>
 
 ## Leaves
-<img src="_layouts_view/bg.jpg" width="100%">
+<a src="" target="_blank"></a>
 
 <br>
 
 ## BigCheckBox
-<img src="_layouts_view/bg.jpg" width="100%">
+<a src="" target="_blank"></a>
 
 <br>
 
 ## GlowingDots
-<img src="_layouts_view/bg.jpg" width="100%">
+<a src="" target="_blank"></a>
 
 <br>
