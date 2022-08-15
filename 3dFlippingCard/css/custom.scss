@@ -1,5 +1,5 @@
 body {
-    background-color: #717171;
+    background-color: #363636;
 }
 .card {
     position: absolute;
@@ -21,10 +21,12 @@ body {
         height: 100%;
         transform: rotateX(0deg);
         transition: 3s;
+        border-radius: 15px;
         
         img {
             height: 100%;
             width: 100%;
+            border-radius: 15px;
         }
     }
 
@@ -32,9 +34,10 @@ body {
         position: absolute;
         top: 0;
         left: 0;
-        background-color: rgb(241, 241, 241);
+        background-color: rgb(100, 100, 100);
         backface-visibility: hidden;
         width: 100%;
+        border-radius: 15px;
         height: 100%;
         transform: rotateX(180deg);
         transition: 3s;
@@ -45,6 +48,10 @@ body {
             transform: translateY(-50%);
             padding: 20px;
             text-align: center;
+            
+            h1 {
+                font-size: 35pt;
+            }
             p {
                 min-width: 360px;
             }
@@ -55,6 +62,7 @@ body {
             position: absolute;
             top: 0;
             right: 50%;
+            border-radius: 15px 0 0 15px;
             width: 50%;
             height: 100%;
             background-color: rgb(202, 202, 202);
